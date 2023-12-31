@@ -3,6 +3,6 @@
 	<br>
 </h1>
 
-<h1>
+<h2>
 	<b> The project that will break your soul and make your life miserable! </b>
-</h1>
+</h2>
