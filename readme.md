@@ -7,6 +7,6 @@
 	<b> The project that will break your soul and make your life miserable! </b>
 </h2>
 
-<h2>
+<h3>
 	<u>if you want to clone this minishell and test it for youself do the following:</u>
-</h2>
+</h3>
