@@ -55,11 +55,11 @@
  
  ---
 
-<h3>
+<h4>
 	now you should have an executable named ./minishell
 	<br>
 	Enjoy :)
-</h3>
+</h4>
 
 <br>
 
