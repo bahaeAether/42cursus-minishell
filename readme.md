@@ -64,7 +64,7 @@
 <br>
 
 <div>
-	you can test memory leaks using his command in another terminal:
+	you can test memory leaks using this command in another terminal:
 
  	bash leak_script.sh
 </div>
