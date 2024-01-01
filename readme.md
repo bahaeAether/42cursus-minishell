@@ -9,6 +9,13 @@
 
 <h3>
 	<p>
-		<u>if you want to clone this minishell and test it for youself do the following:</u>
+		<u>If you want to clone this minishell and test it for youself do the following:</u>
+		<br>
+		<br>
+		<b align=center>---------------<b>
 	</p>
 </h3>
+
+<p>
+	
+</p>
