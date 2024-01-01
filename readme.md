@@ -8,5 +8,7 @@
 </h2>
 
 <h3>
-	<u>if you want to clone this minishell and test it for youself do the following:</u>
+	<p>
+		<u>if you want to clone this minishell and test it for youself do the following:</u>
+	</p>
 </h3>
