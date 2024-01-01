@@ -12,7 +12,7 @@
 		<u>If you want to clone this minishell and test it for youself do the following:</u>
 		<br>
 		<br>
-		<b align=center>---------------<b>
+		<h1 align=center>---------------<h1>
 	</p>
 </h3>
 
