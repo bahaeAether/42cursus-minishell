@@ -40,7 +40,7 @@
  </div>
 
  <div>
-	(YOUR_HOME_PATH) being the absolute path to the home...
+	(YOUR_HOME_PATH) being the absolute path to your home...
 	<br>
 	you can get that using the command:
 	
