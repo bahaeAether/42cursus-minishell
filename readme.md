@@ -19,8 +19,52 @@
 </h3>
 
 <div>
-	<p>	<b>1\</b> After cloning, if you dont have readline installed type in the following command: </p>
-	```
+	<p class="text-left">	<b>1\    </b> After cloning, if you dont have readline installed type in the following command: </p>
+	
+	
 	make readline
-	```
+ </div>
+
+ <div>
+	<p>	<b>2\    </b> go to ./parsing/parsing.h line 31, then change these two lines:</p>
+
+ 	# include "/Users/baboulou/readline/include/readline/readline.h"
+	# include "/Users/baboulou/readline/include/readline/history.h"
+ </div>
+
+ <div>
+	 with these two:
+
+  	# include "(YOUR_HOME_PATH)/readline/include/readline/readline.h"
+	# include "(YOUR_HOME_PATH)/readline/include/readline/history.h"
+ </div>
+
+ <div>
+	(YOUR_HOME_PATH) being the absolute path to the home...
+	<br>
+	you can get that using the command:
+	
+	echo $HOME
+ </div>
+
+ <div>
+	 <p>	<b>3\    </b>type: </p>
+
+  	make
+ </div>
+ 
+ ---
+
+<h3>
+	now you should have an executable named ./minishell
+	<br>
+	Enjoy :)
+</h3>
+
+<br>
+
+<div>
+	you can test memory leaks using his command in another terminal:
+
+ 	bash leak_script.sh
 </div>
